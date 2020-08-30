@@ -4,7 +4,8 @@
 
   -------------------EXEMPLE----------------------
 
-<p align="center">
-  <img src="/home/matheus/Desktop/login.png" width="350" title="Login">
-  
+<p>
+  <section>
+  <img src="/home/matheus/Desktop/login.png">
+  </section>
 </p>
