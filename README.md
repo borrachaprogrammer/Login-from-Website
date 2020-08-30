@@ -4,8 +4,8 @@
 
   -------------------EXEMPLE----------------------
 
-<p>
-  <section>
+
+  
   <img src="/home/matheus/Desktop/login.png">
-  </section>
-</p>
+ 
+
